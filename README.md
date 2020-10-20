@@ -15,7 +15,7 @@
 </style>
  <table cellspacing="20">
    <tr>
-     <td> <img src="Images/circle-cropped.PNG" alt="Website creator"></td>
+     <td> <img src="Images/circle-cropped.JPG"> alt="Website creator"></td>
      <td> <h1>JaQuan Scales</h1><em>Creating websites to <strong>Grow & Scale</strong></em>
   <br><p>🖥 Over the years of self development and being infactuated
      with any and everything that tech has to offer I took it upon myself
